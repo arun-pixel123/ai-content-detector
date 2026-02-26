@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI Content Checker",
+  "description": "Analyze text for AI-generated patterns, quality, and human-like characteristics using Gemini AI.",
+  "requestFramePermissions": []
+}
